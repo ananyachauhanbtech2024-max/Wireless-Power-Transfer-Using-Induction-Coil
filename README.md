@@ -1,8 +1,6 @@
 # Wireless-Power-Transfer-Using-Induction-Coil
 A wireless power transmission project based on electromagnetic induction, demonstrating contactless energy transfer using copper coils, IRFZ44N MOSFET, and LED indicators.
 
-# Wireless Power Transfer Using Induction Coil
-
 ## Overview
 This project demonstrates wireless transmission of electrical energy using electromagnetic induction. A transmitter coil generates a magnetic field which induces voltage in the receiver coil and lights up an LED without direct wire connection.
 
